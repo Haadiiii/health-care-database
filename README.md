@@ -24,33 +24,29 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- Git clone https://github.com/soulemanou-software/health-care-database.git
+- cd health-care-database
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Haamid Ali**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Haadiiii](https://github.com/Haadiiii)
+- Twitter: [@HaaDiii_99](https://twitter.com/HaaDiii_99)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamid-ali-01a872213/)
 
-👤 **Author2**
+👤 **soulemanou kunchiefuh babanou**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [soulemanou](https://github.com/soulemanou-software)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/soulemanou-kunchiefuh-babanou)
+
+👤 **Kwaleyela Musilizo Ikafa**
+
+- GitHub: [@Kwaleyela-Ikafa](https://github.com/Kwaleyela-Ikafa)
+- Twitter: [@K_Ikafa](https://twitter.com/K_Ikafa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kwaleyela-musilizo-ikafa/)
 
 ## 🤝 Contributing
 
