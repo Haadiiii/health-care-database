@@ -27,18 +27,22 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 
 ## Authors
+👤 **Haamid Ali**
 
-👤 **Author1**
+- GitHub: [@Haadiiii](https://github.com/Haadiiii)
+- Twitter: [@HaaDiii_99](https://twitter.com/HaaDiii_99)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/hamid-ali-01a872213/)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **soulemanou kunchiefuh babanou**
 
-👤 **Author2**
+- GitHub: [soulemanou](https://github.com/soulemanou-software)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/soulemanou-kunchiefuh-babanou)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Kwaleyela Musilizo Ikafa**
+
+- GitHub: [@Kwaleyela-Ikafa](https://github.com/Kwaleyela-Ikafa)
+- Twitter: [@K_Ikafa](https://twitter.com/K_Ikafa)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kwaleyela-musilizo-ikafa/)
 
 ## 🤝 Contributing
 
