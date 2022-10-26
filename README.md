@@ -1,40 +1,28 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Great Health Clinic
 
-> Description the project.
+This is a database for a fictional clinic where the doctor/owner wanted a way to manage data efficiently. BUILT using PostgreSQL.  So far at this milestone we have been able to:
+- Make use of Entity Relational Diagrams to initially map out the database before creating in our repository.
 
 
-## Built With
+Enjoy!
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+## ERB Diagram
+![screenshot](https://github.com/microverseinc/curriculum-databases/blob/main/db-structure/images/clinic_diagram.png?raw=true)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+This repository includes files with plain SQL that can be used to recreate a database:
 
+- Use [schema.sql](./schema.sql) to create all tables.
+- Use [data.sql](./data.sql) to populate tables with sample data.
+- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!**
 
-To get a local copy up and running follow these simple example steps.
+## Built with
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- PostgreSQL
+- Linux terminal
 
 
 
@@ -72,4 +60,3 @@ Give a ⭐️ if you like this project!
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
